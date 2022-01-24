@@ -15,7 +15,7 @@ After spending more than a **decade** in **technology consulting** where my role
 ## Featured Projects
 **Water My Plants**
 - Back-End Web Developer
-- *Node.js, Express.js, Knex.js, PostgreSQL, Heroku*
+- *Node.js | Express.js | Knex.js | PostgreSQL | Heroku*
 - Built the backend server and database for a Water My Plants reminder web app
 - Repo [Here](https://github.com/bld-wk-water-my-plants/back-end)
 
