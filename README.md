@@ -21,7 +21,7 @@ After spending more than a **decade** in **technology consulting** where my role
 
 **Git-Hub Grabber**
 - Front-End Web Developer
-- JavaScript, React.js, Axios
+- *JavaScript, React.js, Axios
 - Built a small single page web app which pulls GitHub user and follower info
 - Repo [here](https://github.com/ST1414/web-module-project-lifecycle)
 - Hosted on Vercel [here](https://git-hub-grabber.vercel.app)
