@@ -6,10 +6,8 @@ After spending more than a **decade** in **technology consulting** where my role
 
 ## Fun Facts
 - I spent 15+ years in consulting and 10 of years working on the digital transformation of the built environment
-- I split time between Washington, DC and Munich, Germany over a 2 year period
-- My first consulting role was as a Java developer; my third role was as SAP ABAP developer
+- Two of my first three roles in consulting were as a developer (Java, SAP ABAP)
 - I recently spent 6 months in a full stack software engineering bootcamp learning JavaScript, React.js, Node.js, Express.js and more
-- I'm currently running through algorithms via Code Signal and Leet Code
 - When I'm not coding, I'm a hustling father of 3 
 
 ## Featured Projects
