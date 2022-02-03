@@ -14,18 +14,39 @@ After spending more than a **decade** in **technology consulting** where my role
 
 ## Featured Projects
 **Water My Plants**
-- Back-End Web Developer
+- Back-End Web Developer (solo build)
 - *Node.js | Express.js | Knex.js | PostgreSQL | Heroku*
-- Built the backend server and database for a Water My Plants reminder web app
+<!-- - Built the backend server and database for a Water My Plants reminder web app -->
+- Built server, end-points, middleware, and database queries using Node.js, Express.js, and knex.js
+- Designed database schema on data normalization and persistence principles; built scripts for creation and seeding
+- Used JWT and bcryptjs to build registration, login, and restricted routes
 - Repo [Here](https://github.com/bld-wk-water-my-plants/back-end)
 - Hosted on Heroku [here](https://water-my-plants-build-week.herokuapp.com/)
 
 **Git-Hub Grabber**
-- Front-End Web Developer
+- Front-End Web Developer (solo build)
 - *JavaScript, React.js, Axios*
-- Built a small single page web app which pulls GitHub user and follower info
+- Built a small single page web app using JavaScript and React.js, which pulls GitHub user and follower info
 - Repo [here](https://github.com/ST1414/web-module-project-lifecycle)
 - Hosted on Vercel [here](https://git-hub-grabber.vercel.app)
+
+**Potluck Planner**
+- Front-End Web Developer (team build)
+- *JavaScript, React.js, Axios*
+- Designed front-end page flow
+- Built repo and file structure using the Create React App
+- Implemented client-side routing with React Router
+- Built multiple components including app, sign up, login, profile using React.js
+- Built custom Axios component for accessing protected routes associated with user data
+- Repo [here](https://github.com/bwpotluckplanner3/frontend)
+- Hosted on Nelify [here](https://potluck3.netlify.app/)
+
+**Marketplace**
+- Front-End Web Developer (team build)
+- *JavaScript, React.js, Axios*
+- Built the marketplace listing component and search function using React.js and Axios
+- Repo [here](https://github.com/Build-Week-ft-african-marketplace-3/front-end)
+
 
 <!--
 **ST1414/ST1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
