@@ -14,7 +14,6 @@ After spending more than a **decade** in **technology consulting** where my role
 **Water My Plants**
 - Back-End Web Developer (solo build)
 - *Node.js | Express.js | Knex.js | PostgreSQL | Heroku*
-<!-- - Built the backend server and database for a Water My Plants reminder web app -->
 - Built server, end-points, middleware, and database queries using Node.js, Express.js, and knex.js
 - Designed database schema on data normalization and persistence principles; built scripts for creation and seeding
 - Used JWT and bcryptjs to build registration, login, and restricted routes
@@ -47,7 +46,8 @@ After spending more than a **decade** in **technology consulting** where my role
 
 
 <!--
-**ST1414/ST1414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Extra Bullets for Above Projects
+- Built the backend server and database for a Water My Plants reminder web app -->
 
 Here are some ideas to get you started:
 
