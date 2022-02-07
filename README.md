@@ -11,7 +11,9 @@ After spending more than a **decade** in **technology consulting** where my role
 - When I'm not coding, I'm a hustling father of 3 
 
 ## Featured Projects
-#### Task Reminder Websit (Water My Plants)
+### Task Reminder Website (Water My Plants)
+#### Task Reminder Website (Water My Plants)
+**Task Reminder Website (Water My Plants)**
 - Back-End Web Developer (solo build)
 - *Node.js | Express.js | Knex.js | PostgreSQL | Heroku*
 - Built server, end-points, middleware, and database queries using Node.js, Express.js, and knex.js
