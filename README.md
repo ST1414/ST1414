@@ -11,7 +11,7 @@ After spending more than a **decade** in **technology consulting** where my role
 - When I'm not coding, I'm a hustling father of 3 
 
 ## Featured Projects
-**Task Reminder Websit (Water My Plants)**
+#### Task Reminder Websit (Water My Plants)
 - Back-End Web Developer (solo build)
 - *Node.js | Express.js | Knex.js | PostgreSQL | Heroku*
 - Built server, end-points, middleware, and database queries using Node.js, Express.js, and knex.js
@@ -43,20 +43,3 @@ After spending more than a **decade** in **technology consulting** where my role
 - *JavaScript, React.js, Axios*
 - Built the marketplace listing component and search function using React.js and Axios
 - Repo [here](https://github.com/Build-Week-ft-african-marketplace-3/front-end)
-
-
-<!--
-Extra Bullets for Above Projects
-- Built the backend server and database for a Water My Plants reminder web app -->
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
