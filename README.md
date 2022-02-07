@@ -5,13 +5,13 @@ Hey There,
 After spending more than a **decade** in **technology consulting** where my role spanned everything from junior software developer, to system deployment lead, to program manager ... I decided to pivot back to **software engineering** which is where I found the most **fulfilling** work.  
 
 ## Fun Facts
-- I spent 15+ years in consulting and 10 of years working on the digital transformation of the built environment
+- Spent 15+ years in consulting and 10 of years working on the digital transformation of the built environment
 - Two of my first three roles in consulting were as a developer (Java, SAP ABAP)
 - I recently spent 6 months in a full stack software engineering bootcamp learning JavaScript, React.js, Node.js, Express.js and more
 - When I'm not coding, I'm a hustling father of 3 
 
 ## Featured Projects
-**Water My Plants**
+**Task Reminder Websit (Water My Plants)**
 - Back-End Web Developer (solo build)
 - *Node.js | Express.js | Knex.js | PostgreSQL | Heroku*
 - Built server, end-points, middleware, and database queries using Node.js, Express.js, and knex.js
@@ -27,7 +27,7 @@ After spending more than a **decade** in **technology consulting** where my role
 - Repo [here](https://github.com/ST1414/web-module-project-lifecycle)
 - Hosted on Vercel [here](https://git-hub-grabber.vercel.app)
 
-**Potluck Planner**
+**Event Planner Website (Potluck Planner)**
 - Front-End Web Developer (team build)
 - *JavaScript, React.js, Axios*
 - Designed front-end page flow
@@ -38,7 +38,7 @@ After spending more than a **decade** in **technology consulting** where my role
 - Repo [here](https://github.com/bwpotluckplanner3/frontend)
 - Hosted on Nelify [here](https://potluck3.netlify.app/)
 
-**Marketplace**
+**Marketplace Website**
 - Front-End Web Developer (team build)
 - *JavaScript, React.js, Axios*
 - Built the marketplace listing component and search function using React.js and Axios
