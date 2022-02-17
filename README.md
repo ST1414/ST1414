@@ -18,12 +18,12 @@ After spending more than a **decade** in **technology consulting** where my role
 - Designed database schema on data normalization and persistence principles; built scripts for creation and seeding
 - Used JWT and bcryptjs to build registration, login, and restricted routes
 - Repo [Here](https://github.com/bld-wk-water-my-plants/back-end)
-- Hosted on Heroku [here](https://water-my-plants-build-week.herokuapp.com/)
+- Hosted on Heroku (APIs only) [here](https://water-my-plants-build-week.herokuapp.com/)
 
 **Git-Hub Grabber**
 - Front-End Web Developer (solo build)
 - *JavaScript, React.js, Axios*
-- Built a small single page web app using JavaScript and React.js, which pulls GitHub user and follower info
+- Built a single page web app using JavaScript and React.js, which pulls GitHub user and follower info
 - Repo [here](https://github.com/ST1414/web-module-project-lifecycle)
 - Hosted on Vercel [here](https://git-hub-grabber.vercel.app)
 
