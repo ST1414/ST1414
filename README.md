@@ -8,7 +8,7 @@ After spending more than a **decade** in **technology consulting** where my role
 - Spent 15+ years in consulting and 10 of years working on the digital transformation of the built environment
 - Two of my first three roles in consulting were as a developer (Java, SAP ABAP)
 - I recently spent 6 months in a full stack software engineering bootcamp learning JavaScript, React.js, Node.js, Express.js and more
-- When I'm not coding, I'm a hustling father of 3 
+- When I'm not coding, I'm dreaming of my next project car
 
 ## Featured Projects
 **Task Reminder Website (Water My Plants)**
